@@ -2,5 +2,5 @@ os-sys==2.1.4
 python-dotenv==1.0.1
 openai==1.95.1
 streamlit==1.41.1
-streamlit-navigation-bar==3.3.0
 streamlit_arabic_support_wrapper==1.1
+
