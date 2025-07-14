@@ -1,7 +1,6 @@
 import streamlit as st
 from openai import OpenAI
 from arabic_support import support_arabic_text
-from streamlit_navigation_bar import st_navbar
 from dotenv import load_dotenv
 
 import os
